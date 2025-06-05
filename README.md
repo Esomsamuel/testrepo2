@@ -1,3 +1,3 @@
 # testrepo2
-My Coursera Capstone Project
-ita markdown file in this repository
+My Coursera Capstone Project\n
+its a markdown file in this repository
